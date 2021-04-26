@@ -1,0 +1,20 @@
+########## Commands After Saving All Required Files ###########
+
+heroku login(It's free WebApp Deploying Platform,Just Creat Heroku Account and Sing in via heroku login Command in CLI.)
+
+pip install gunicorn
+pip freeze requirements.txt
+Procfile
+web:gunicorn app:app
+
+
+######## For Git First Intall Git From Given Link Below ########
+########  Website To Download GIT: https://git-scm.com/ ########
+
+git init
+git add .
+git commit -m "Initial commmit"
+
+heroku create todo-creater(Or Any Name)
+git remote -v
+git push heroku master
