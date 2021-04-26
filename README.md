@@ -1,8 +1,8 @@
 This is Simple TODO WebApp For Storing Your Daily Schedules.
 
-Inorder To Create WebApp,
+To Create This WebApp,
 
-First Create a New Folder
+First Create a New Folder 
 
 Then Simply Create Python File Containing Code Of App.py
 
